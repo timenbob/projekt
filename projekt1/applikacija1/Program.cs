@@ -12,6 +12,7 @@ namespace applikacija1
         {
             Console.WriteLine("jkl");
             Console.WriteLine("bla123");
+            Console.WriteLine("bla bla bla");
         }
     }
 }
