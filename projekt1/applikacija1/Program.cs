@@ -10,7 +10,8 @@ namespace applikacija1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hellowdjbdvuieihoiwjdoi");
+            Console.WriteLine("jkl");
+            Console.WriteLine("bla123");
         }
     }
 }
